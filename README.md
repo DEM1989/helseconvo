@@ -1,4 +1,4 @@
-
+hi
 # Health R - Medical Transcription App 🩺
 
 Health R is an open-source medical transcription app that uses AI to generate structured clinical notes from audio recordings.
@@ -69,9 +69,9 @@ Settings allow configuring:
 ## 🛣️ Roadmap
 > A list or graphical representation of future features, improvements, and bug fixes.
 
-- [ ] Feature 1
-- [x] Feature 2 (completed)
-- [ ] Bug fix 1
+- [ ] asynchronous transcript 
+- [x] GUI with buttons (completed)
+- [ ] Upgrade openAI endpoints 
 
 ## 💻 Requirements
 - Python 3
