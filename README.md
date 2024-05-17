@@ -18,7 +18,7 @@ An open-source medical transcription app that uses AI to generate structured cli
 - [License](#license)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [Contact](#contact)
+
 
 ## 💊 Features
 - 🎤 **Record Audio**: Capture audio from your microphone or system audio.
@@ -106,8 +106,6 @@ We welcome contributions to improve Health Assist! If you find any bugs or have 
 ## 🌟 Credits
 - **openai** for their incredible models and API.
 
-## 📞 Contact
-> Contact information or links to social profiles
 
 
 
