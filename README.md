@@ -1,7 +1,7 @@
 
-# Health Assist - Medical Transcription App 🩺
+# Health R - Medical Transcription App 🩺
 
-Health Assist is an open-source medical transcription app that uses AI to generate structured clinical notes from audio recordings.
+Health R is an open-source medical transcription app that uses AI to generate structured clinical notes from audio recordings.
 
 ![Project Logo](link_to_logo_image)
 
@@ -109,11 +109,14 @@ Distributed under the [AGPLv3 License](https://www.gnu.org/licenses/agpl-3.0.en.
 
 
 ## 🙌 Contributing
-Contributions are welcome! See CONTRIBUTING.md for details.
+
+We welcome contributions to improve Health Assist! If you find any bugs or have suggestions for new features, please feel free to submit a pull request.
 
 ## 🌟 Credits
 - **openai** for their incredible models and API.
 
 ## 📞 Contact
 > Contact information or links to social profiles
+
+
 
