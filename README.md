@@ -15,8 +15,6 @@ An open-source medical transcription app that uses AI to generate structured cli
 - [Roadmap](#roadmap)
 - [Requirements](#requirements)
 - [Disclaimer](#disclaimer)
-- [Screenshots or Videos](#screenshots-or-videos)
-- [Widgets](#widgets)
 - [License](#license)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -91,13 +89,6 @@ Settings allow configuring:
 
 ## 🩺 Disclaimer
 Health Assist is not intended for diagnostic use. Please consult a qualified healthcare provider for any medical advice.
-
-## 🖼️ Screenshots or Videos
-> Insert screenshots or video links here
-
-## 📊 Widgets
-> Insert badges or widgets here
-
 
 <!-- LICENSE -->
 
