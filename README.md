@@ -58,16 +58,13 @@ An open-source medical transcription app that uses AI to generate structured cli
 - GPT-3 - text content generation
 
 ## ⚙️ Configuration
-> Insert images or GIFs here to demonstrate configuration steps
 
 Settings allow configuring:
 - Audio input source
 - Microphone selection
 - Volume level
-- Other app settings
 
 ## 🛣️ Roadmap
-> A list or graphical representation of future features, improvements, and bug fixes.
 
 - [ ] asynchronous transcript 
 - [x] GUI with buttons (completed)
