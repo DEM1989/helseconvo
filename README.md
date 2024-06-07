@@ -1,4 +1,4 @@
-hi
+
 # Health R - Medical Transcription App 🩺
 
 Health R is a medical transcription app that uses AI to generate structured clinical notes from audio recordings.
